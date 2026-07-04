@@ -4,6 +4,91 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+    
+        {
+            "type": "java",
+            "name": "MiddleWay",
+            "request": "launch",
+            "mainClass": "JavaFundamentals.Arrays.MiddleWay",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "Only14",
+            "request": "launch",
+            "mainClass": "JavaFundamentals.Arrays.Only14",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "EvenOdd",
+            "request": "launch",
+            "mainClass": "JavaFundamentals.Arrays.EvenOdd",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "WithoutTen",
+            "request": "launch",
+            "mainClass": "JavaFundamentals.Arrays.WithoutTen",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "Sum67",
+            "request": "launch",
+            "mainClass": "JavaFundamentals.Arrays.Sum67",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicates",
+            "request": "launch",
+            "mainClass": "JavaFundamentals.Arrays.RemoveDuplicates",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "SortArray",
+            "request": "launch",
+            "mainClass": "JavaFundamentals.Arrays.SortArray",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "LargestSmallest",
+            "request": "launch",
+            "mainClass": "JavaFundamentals.Arrays.LargestSmallest",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "AsciiCharacters",
+            "request": "launch",
+            "mainClass": "JavaFundamentals.Arrays.AsciiCharacters",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "SearchElement",
+            "request": "launch",
+            "mainClass": "JavaFundamentals.Arrays.SearchElement",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "MaxAndMin",
+            "request": "launch",
+            "mainClass": "JavaFundamentals.Arrays.MaxAndMin",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "SumAvg",
+            "request": "launch",
+            "mainClass": "JavaFundamentals.Arrays.SumAvg",
+            "projectName": "Wipro-TNP_77a45018"
+        },
         {
             "type": "java",
             "name": "Palindrome",
@@ -127,10 +212,17 @@
             "type": "java",
             "name": "Current File",
             "request": "launch",
-            "mainClass": "JavaFundamentals.FlowControlStatements.CommandLineArgs",
+            "mainClass": "JavaFundamentals.Arrays.BiggestIn",
             "args": [
-                "Mumbai",
-                "Banglore"
+                "1",
+                "23",
+                "45",
+                "55",
+                "121",
+                "222",
+                "56",
+                "77",
+                "89"
             ]
         }
     ]
