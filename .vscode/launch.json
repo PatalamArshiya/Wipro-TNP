@@ -1,0 +1,137 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "JavaFundamentals.FlowControlStatements.Palindrome",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "ReverseNumber",
+            "request": "launch",
+            "mainClass": "JavaFundamentals.FlowControlStatements.ReverseNumber",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "FloydPattern",
+            "request": "launch",
+            "mainClass": "JavaFundamentals.FlowControlStatements.FloydPattern",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "SumOfDigits",
+            "request": "launch",
+            "mainClass": "JavaFundamentals.FlowControlStatements.SumOfDigits",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumbers",
+            "request": "launch",
+            "mainClass": "JavaFundamentals.FlowControlStatements.PrimeNumbers",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumber",
+            "request": "launch",
+            "mainClass": "JavaFundamentals.FlowControlStatements.PrimeNumber",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "PrintOneToTen",
+            "request": "launch",
+            "mainClass": "JavaFundamentals.FlowControlStatements.PrintOneToTen",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "EvenNumbers",
+            "request": "launch",
+            "mainClass": "JavaFundamentals.FlowControlStatements.EvenNumbers",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "MonthName",
+            "request": "launch",
+            "mainClass": "JavaFundamentals.FlowControlStatements.MonthName",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "ColorCode",
+            "request": "launch",
+            "mainClass": "JavaFundamentals.FlowControlStatements.ColorCode",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "CaseConverter",
+            "request": "launch",
+            "mainClass": "JavaFundamentals.FlowControlStatements.CaseConverter",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "InterestCalculator",
+            "request": "launch",
+            "mainClass": "JavaFundamentals.FlowControlStatements.InterestCalculator",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "CharacterType",
+            "request": "launch",
+            "mainClass": "JavaFundamentals.FlowControlStatements.CharacterType",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "AlphabeticalOrder",
+            "request": "launch",
+            "mainClass": "JavaFundamentals.FlowControlStatements.AlphabeticalOrder",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "CommandLineArgs",
+            "request": "launch",
+            "mainClass": "JavaFundamentals.FlowControlStatements.CommandLineArgs",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "OddEven",
+            "request": "launch",
+            "mainClass": "JavaFundamentals.FlowControlStatements.OddEven",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "SameLastDigit",
+            "request": "launch",
+            "mainClass": "JavaFundamentals.FlowControlStatements.SameLastDigit",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "JavaFundamentals.FlowControlStatements.CommandLineArgs",
+            "args": [
+                "Mumbai",
+                "Banglore"
+            ]
+        }
+    ]
+}
