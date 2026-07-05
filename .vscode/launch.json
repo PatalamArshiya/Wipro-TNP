@@ -4,6 +4,7 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+
     
         {
             "type": "java",
@@ -212,17 +213,9 @@
             "type": "java",
             "name": "Current File",
             "request": "launch",
-            "mainClass": "JavaFundamentals.Arrays.BiggestIn",
+            "mainClass": "JavaFundamentals.MiniProject.Project1",
             "args": [
-                "1",
-                "23",
-                "45",
-                "55",
-                "121",
-                "222",
-                "56",
-                "77",
-                "89"
+                "123"
             ]
         }
     ]
