@@ -4,8 +4,55 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-
-    
+        {
+            "type": "java",
+            "name": "TestShape",
+            "request": "launch",
+            "mainClass": "OOPS.Polymorphism.TestShape",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "TestFruit",
+            "request": "launch",
+            "mainClass": "OOPS.Polymorphism.TestFruit",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "TestEmployee",
+            "request": "launch",
+            "mainClass": "OOPS.Inheritance.TestEmployee",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "Bird",
+            "request": "launch",
+            "mainClass": "OOPS.Inheritance.Bird",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "Book",
+            "request": "launch",
+            "mainClass": "OOPS.Encapsulation.Book",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "OOPS.ClassesAndObjects.Calculator",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "Box",
+            "request": "launch",
+            "mainClass": "OOPS.ClassesAndObjects.Box",
+            "projectName": "Wipro-TNP_77a45018"
+        },
         {
             "type": "java",
             "name": "MiddleWay",
