@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RemoveX",
+            "request": "launch",
+            "mainClass": "OOPS.Strings.RemoveX",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "ShortLongShort",
+            "request": "launch",
+            "mainClass": "OOPS.Strings.ShortLongShort",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "RemoveStar",
+            "request": "launch",
+            "mainClass": "OOPS.Strings.RemoveStar",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "CombineStrings",
+            "request": "launch",
+            "mainClass": "OOPS.Strings.CombineStrings",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "RepeatLastN",
+            "request": "launch",
+            "mainClass": "OOPS.Strings.RepeatLastN",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "FirstHalf",
+            "request": "launch",
+            "mainClass": "OOPS.Strings.FirstHalf",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "RemoveFirstLast",
+            "request": "launch",
+            "mainClass": "OOPS.Strings.RemoveFirstLast",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "RepeatFirstTwo",
+            "request": "launch",
+            "mainClass": "OOPS.Strings.RepeatFirstTwo",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "ConcatString",
+            "request": "launch",
+            "mainClass": "OOPS.Strings.ConcatString",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "OOPS.Strings.Palindrome",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
             "name": "TestShape",
             "request": "launch",
             "mainClass": "OOPS.Polymorphism.TestShape",
