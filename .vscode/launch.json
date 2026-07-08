@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SumEvenOdd",
+            "request": "launch",
+            "mainClass": "LogicBuildingHour.SumEvenOdd",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "EvenOdd",
+            "request": "launch",
+            "mainClass": "LogicBuildingHour.EvenOdd",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "GreaterNumber",
+            "request": "launch",
+            "mainClass": "LogicBuildingHour.GreaterNumber",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "PositiveNegative",
+            "request": "launch",
+            "mainClass": "LogicBuildingHour.PositiveNegative",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
             "name": "RemoveX",
             "request": "launch",
             "mainClass": "OOPS.Strings.RemoveX",
