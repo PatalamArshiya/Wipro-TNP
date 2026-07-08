@@ -6,6 +6,111 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SkipTwoNumbers",
+            "request": "launch",
+            "mainClass": "LogicBuildingHour.LoopingConstructs.SkipTwoNumbers",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "Reverse100To0",
+            "request": "launch",
+            "mainClass": "LogicBuildingHour.LoopingConstructs.Reverse100To0",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "EvenNumbers",
+            "request": "launch",
+            "mainClass": "LogicBuildingHour.LoopingConstructs.EvenNumbers",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "OddNumbers",
+            "request": "launch",
+            "mainClass": "LogicBuildingHour.LoopingConstructs.OddNumbers",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "Print1To100",
+            "request": "launch",
+            "mainClass": "LogicBuildingHour.LoopingConstructs.Print1To100",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Abstraction.Packages.com.automobile.Test",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "TestCompartment",
+            "request": "launch",
+            "mainClass": "Abstraction.Packages.com.wipro.automobile.ship.TestCompartment",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Abstraction.Packages.app.Test",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "TestCompartment",
+            "request": "launch",
+            "mainClass": "Abstraction.AbstractClasses.TestCompartment",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "VideoLauncher",
+            "request": "launch",
+            "mainClass": "OOPS.MiniProject.VideoLauncher",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "OptionalEmployee",
+            "request": "launch",
+            "mainClass": "OOPS.OptionalClass.OptionalEmployee",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "OptionalAddress",
+            "request": "launch",
+            "mainClass": "OOPS.OptionalClass.OptionalAddress",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "OptionalNames",
+            "request": "launch",
+            "mainClass": "OOPS.OptionalClass.OptionalNames",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "MergeStringJoiner",
+            "request": "launch",
+            "mainClass": "OOPS.StringJoinerClass.MergeStringJoiner",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "StringJoinerNames",
+            "request": "launch",
+            "mainClass": "OOPS.StringJoinerClass.StringJoinerNames",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
             "name": "SumEvenOdd",
             "request": "launch",
             "mainClass": "LogicBuildingHour.SumEvenOdd",
