@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AddLastDigits",
+            "request": "launch",
+            "mainClass": "LogicBuildingHour.Day3.AddLastDigits",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "SecondLastDigit",
+            "request": "launch",
+            "mainClass": "LogicBuildingHour.Day3.SecondLastDigit",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "LastDigit",
+            "request": "launch",
+            "mainClass": "LogicBuildingHour.Day3.LastDigit",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "IsOdd",
+            "request": "launch",
+            "mainClass": "LogicBuildingHour.Day3.IsOdd",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "IsEven",
+            "request": "launch",
+            "mainClass": "LogicBuildingHour.Day3.IsEven",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "MyTest",
+            "request": "launch",
+            "mainClass": "Abstraction.InterfaceNewFeatures.MyTest",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "LambdaTest",
+            "request": "launch",
+            "mainClass": "Abstraction.InterfaceNewFeatures.LambdaTest",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Abstraction.InterfaceNewFeatures.Test",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Abstraction.Interfaces.live.Test",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
             "name": "SkipTwoNumbers",
             "request": "launch",
             "mainClass": "LogicBuildingHour.LoopingConstructs.SkipTwoNumbers",
