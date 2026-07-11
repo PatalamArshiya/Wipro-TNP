@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "WrapperClasses.Test",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "CloneDemo",
+            "request": "launch",
+            "mainClass": "WrapperClasses.CloneDemo",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "Binary8Bit",
+            "request": "launch",
+            "mainClass": "WrapperClasses.Binary8Bit",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "WrapperRange",
+            "request": "launch",
+            "mainClass": "WrapperClasses.WrapperRange",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
             "name": "StudentMain",
             "request": "launch",
             "mainClass": "Abstraction.MiniProject.com.mile1.main.StudentMain",
@@ -552,10 +580,11 @@
         },
         {
             "type": "java",
-            "name": "Current File",
+            "name": "Launch Test",
             "request": "launch",
-            "mainClass": "Person",
-            "args": "Arshiya 20"
+            "mainClass": "WrapperClasses.Test",
+            "args": ["20"]
+        
         }
     ]
 }
