@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StudentMain",
+            "request": "launch",
+            "mainClass": "Abstraction.MiniProject.com.mile1.main.StudentMain",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "StudentException",
+            "request": "launch",
+            "mainClass": "StudentException",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "MathOperation",
+            "request": "launch",
+            "mainClass": "MathOperation",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "ArrayException",
+            "request": "launch",
+            "mainClass": "ArrayException",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
             "name": "AddLastDigits",
             "request": "launch",
             "mainClass": "LogicBuildingHour.Day3.AddLastDigits",
@@ -526,10 +554,8 @@
             "type": "java",
             "name": "Current File",
             "request": "launch",
-            "mainClass": "JavaFundamentals.MiniProject.Project1",
-            "args": [
-                "123"
-            ]
+            "mainClass": "Person",
+            "args": "Arshiya 20"
         }
     ]
 }
