@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EmployeeManagementSystem",
+            "request": "launch",
+            "mainClass": "IOStreams.MiniProject.EmployeeManagementSystem",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "FileWordCount",
+            "request": "launch",
+            "mainClass": "IOStreams.FileWordCount",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "FileCopy",
+            "request": "launch",
+            "mainClass": "IOStreams.FileCopy",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "CharacterCount",
+            "request": "launch",
+            "mainClass": "IOStreams.CharacterCount",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
             "name": "Test",
             "request": "launch",
             "mainClass": "WrapperClasses.Test",
@@ -580,11 +608,13 @@
         },
         {
             "type": "java",
-            "name": "Launch Test",
+            "name": "Launch FileWordCount",
             "request": "launch",
-            "mainClass": "WrapperClasses.Test",
-            "args": ["20"]
-        
+            "mainClass": "IOStreams.FileWordCount",
+            "args": [
+                "IOStreams/Input.txt",
+                "IOStrams/output.txt"
+            ]
         }
     ]
 }
