@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FileCopy",
+            "request": "launch",
+            "mainClass": "IOStreams.EmployeeOperations.FileCopy",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "FileWordCount",
+            "request": "launch",
+            "mainClass": "IOStreams.EmployeeOperations.FileWordCount",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "CharacterCount",
+            "request": "launch",
+            "mainClass": "IOStreams.EmployeeOperations.CharacterCount",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
             "name": "Deserialization",
             "request": "launch",
             "mainClass": "IOStreams.ObjectSerialization.Deserialization",

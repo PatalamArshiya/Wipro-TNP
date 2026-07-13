@@ -1,4 +1,4 @@
-package IOStreams;
+package IOStreams.EmployeeOperations;
 
 import java.io.*;
 import java.util.*;
