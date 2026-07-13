@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Deserialization",
+            "request": "launch",
+            "mainClass": "IOStreams.ObjectSerialization.Deserialization",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "Serialization",
+            "request": "launch",
+            "mainClass": "IOStreams.ObjectSerialization.Serialization",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
             "name": "EmployeeManagementSystem",
             "request": "launch",
             "mainClass": "IOStreams.MiniProject.EmployeeManagementSystem",
