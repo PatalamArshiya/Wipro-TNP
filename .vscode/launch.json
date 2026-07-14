@@ -6,6 +6,125 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TestCountryTreeMap",
+            "request": "launch",
+            "mainClass": "Collection.map.TestCountryTreeMap",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "TestCountryHashTable",
+            "request": "launch",
+            "mainClass": "Collection.map.TestCountryHashTable",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "ContactList",
+            "request": "launch",
+            "mainClass": "Collection.map.ContactList",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "PropertiesDemo",
+            "request": "launch",
+            "mainClass": "Collection.map.PropertiesDemo",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "HashMapDemo",
+            "request": "launch",
+            "mainClass": "Collection.map.HashMapDemo",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "TestCountryMap",
+            "request": "launch",
+            "mainClass": "Collection.map.TestCountryMap",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "TestCountryTreeSet",
+            "request": "launch",
+            "mainClass": "Collection.set.TestCountryTreeSet",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "TreeSetDemo",
+            "request": "launch",
+            "mainClass": "Collection.set.TreeSetDemo",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "EmployeeHashSet",
+            "request": "launch",
+            "mainClass": "Collection.set.EmployeeHashSet",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "TestCountry",
+            "request": "launch",
+            "mainClass": "Collection.set.TestCountry",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "VectorIteratorDemo",
+            "request": "launch",
+            "mainClass": "Collection.list.VectorIteratorDemo",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "EmployeeVector",
+            "request": "launch",
+            "mainClass": "Collection.list.EmployeeVector",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "EmployeeLinkedList",
+            "request": "launch",
+            "mainClass": "Collection.list.EmployeeLinkedList",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "NumberList",
+            "request": "launch",
+            "mainClass": "Collection.list.NumberList",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "StringList",
+            "request": "launch",
+            "mainClass": "Collection.list.StringList",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "TestEmployee",
+            "request": "launch",
+            "mainClass": "Collection.list.TestEmployee",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "Months",
+            "request": "launch",
+            "mainClass": "Collection.list.Months",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
             "name": "FileCopy",
             "request": "launch",
             "mainClass": "IOStreams.EmployeeOperations.FileCopy",
