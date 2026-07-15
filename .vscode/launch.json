@@ -6,6 +6,174 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TimeBefore530",
+            "request": "launch",
+            "mainClass": "Collection.DateTimeAPI.TimeBefore530",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "TimeAfter25",
+            "request": "launch",
+            "mainClass": "Collection.DateTimeAPI.TimeAfter25",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "LeapYear",
+            "request": "launch",
+            "mainClass": "Collection.DateTimeAPI.LeapYear",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "TodayDate",
+            "request": "launch",
+            "mainClass": "Collection.DateTimeAPI.TodayDate",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "SecondSunday",
+            "request": "launch",
+            "mainClass": "Collection.DateTimeAPI.SecondSunday",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "ExperienceCalculator",
+            "request": "launch",
+            "mainClass": "Collection.DateTimeAPI.ExperienceCalculator",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "PrimeSupplier",
+            "request": "launch",
+            "mainClass": "Collection.FunctionalInterface.PrimeSupplier",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "OddEvenConsumer",
+            "request": "launch",
+            "mainClass": "Collection.FunctionalInterface.OddEvenConsumer",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "ReverseWordsConsumer",
+            "request": "launch",
+            "mainClass": "Collection.FunctionalInterface.ReverseWordsConsumer",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "PerfectSquareNumbers",
+            "request": "launch",
+            "mainClass": "Collection.FunctionalInterface.PerfectSquareNumbers",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "EmployeeSalaryFilter",
+            "request": "launch",
+            "mainClass": "Collection.FunctionalInterface.EmployeeSalaryFilter",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "PalindromeWords",
+            "request": "launch",
+            "mainClass": "Collection.FunctionalInterface.PalindromeWords",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "SumArrayList",
+            "request": "launch",
+            "mainClass": "Collection.FunctionalInterface.SumArrayList",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "EmployeeLocation",
+            "request": "launch",
+            "mainClass": "Collection.FunctionalInterface.EmployeeLocation",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "StudentMain",
+            "request": "launch",
+            "mainClass": "Collection.streamAPI.StudentMain",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "NegativeEvenNumbers",
+            "request": "launch",
+            "mainClass": "Collection.streamAPI.NegativeEvenNumbers",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "EmployeeMain",
+            "request": "launch",
+            "mainClass": "Collection.streamAPI.EmployeeMain",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "MyClass3",
+            "request": "launch",
+            "mainClass": "Collection.methodReference.MyClass3",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "MyClass2",
+            "request": "launch",
+            "mainClass": "Collection.methodReference.MyClass2",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "MyClass",
+            "request": "launch",
+            "mainClass": "Collection.methodReference.MyClass",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "OddLengthStrings",
+            "request": "launch",
+            "mainClass": "Collection.lambdaExpression.OddLengthStrings",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "MyClassWithLambda",
+            "request": "launch",
+            "mainClass": "Collection.lambdaExpression.MyClassWithLambda",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "ReverseStrings",
+            "request": "launch",
+            "mainClass": "Collection.lambdaExpression.ReverseStrings",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumbers",
+            "request": "launch",
+            "mainClass": "Collection.lambdaExpression.PrimeNumbers",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
             "name": "TestCountryTreeMap",
             "request": "launch",
             "mainClass": "Collection.map.TestCountryTreeMap",
