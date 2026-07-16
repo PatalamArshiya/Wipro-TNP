@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StringOperations",
+            "request": "launch",
+            "mainClass": "Collection.MiniProject6.StringOperations",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "BoxMain",
+            "request": "launch",
+            "mainClass": "Collection.MiniProject5.BoxMain",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "CardMain",
+            "request": "launch",
+            "mainClass": "Collection.MiniProject4.CardMain",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "CardMain",
+            "request": "launch",
+            "mainClass": "Collection.MiniProject3.CardMain",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "StringOperations",
+            "request": "launch",
+            "mainClass": "Collection.MiniProject2.StringOperations",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "EmployeeMain",
+            "request": "launch",
+            "mainClass": "Collection.MiniProject1.EmployeeMain",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
             "name": "TimeBefore530",
             "request": "launch",
             "mainClass": "Collection.DateTimeAPI.TimeBefore530",
