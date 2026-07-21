@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PriorityThread",
+            "request": "launch",
+            "mainClass": "MultiThreading.ThreadControlAndPriorities.PriorityThread",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "EvenOddThread",
+            "request": "launch",
+            "mainClass": "MultiThreading.ThreadControlAndPriorities.EvenOddThread",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "DelayThread",
+            "request": "launch",
+            "mainClass": "MultiThreading.ThreadControlAndPriorities.DelayThread",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "ColourThread",
+            "request": "launch",
+            "mainClass": "MultiThreading.ThreadCreation.ColourThread",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "ThreadNames",
+            "request": "launch",
+            "mainClass": "MultiThreading.ThreadCreation.ThreadNames",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
             "name": "StringOperations",
             "request": "launch",
             "mainClass": "Collection.MiniProject6.StringOperations",
