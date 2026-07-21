@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HareTortoiseRace",
+            "request": "launch",
+            "mainClass": "MultiThreading.MiniProject.HareTortoiseRace",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
             "name": "PriorityThread",
             "request": "launch",
             "mainClass": "MultiThreading.ThreadControlAndPriorities.PriorityThread",
