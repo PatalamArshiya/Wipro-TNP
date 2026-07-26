@@ -1,0 +1,30 @@
+import java.io.*;
+import java.util.*;
+
+class UserMainCode {
+    public int findStringCode(String input1) {
+        String[] words = input1.split(" ");
+        StringBuilder result = new StringBuilder();
+
+        for (String word : words) {
+            word = word.toUpperCase();
+            int sum = 0;
+            int len = word.length();
+
+            for (int i = 0; i < len / 2; i++) {
+                int firstCharVal = word.charAt(i) - 'A' + 1;
+                int lastCharVal = word.charAt(len - 1 - i) - 'A' + 1;
+                sum += Math.abs(firstCharVal - lastCharVal);
+            }
+
+            if (len % 2 != 0) {
+                int middleCharVal = word.charAt(len / 2) - 'A' + 1;
+                sum += middleCharVal;
+            }
+
+            result.append(sum);
+        }
+
+        return Integer.parseInt(result.toString());
+    }
+}
