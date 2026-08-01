@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CallProcedure",
+            "request": "launch",
+            "mainClass": "JDBC.CallableStatement.CallProcedure",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "JDBCCalls",
+            "request": "launch",
+            "mainClass": "JDBC.PreparedStatement.JDBCCalls",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "DisplayStudent",
+            "request": "launch",
+            "mainClass": "JDBC.PreparedStatement.DisplayStudent",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "UpdateStudent",
+            "request": "launch",
+            "mainClass": "JDBC.PreparedStatement.UpdateStudent",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "DeleteStudent",
+            "request": "launch",
+            "mainClass": "JDBC.PreparedStatement.DeleteStudent",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "InsertStudent",
+            "request": "launch",
+            "mainClass": "JDBC.PreparedStatement.InsertStudent",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "ExecuteQuery2",
+            "request": "launch",
+            "mainClass": "JDBC.ExecuteQuery2",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "ExecuteQuery1",
+            "request": "launch",
+            "mainClass": "JDBC.ExecuteQuery1",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "EstablishConnection",
+            "request": "launch",
+            "mainClass": "JDBC.EstablishConnection",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
             "name": "HareTortoiseRace",
             "request": "launch",
             "mainClass": "MultiThreading.MiniProject.HareTortoiseRace",

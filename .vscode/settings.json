@@ -6,7 +6,8 @@
         "JunitLearning\\src"
     ],
     "java.project.referencedLibraries": [
-        "JunitLearning\\lib\\hamcrest-core-1.3.jar",
-        "JunitLearning\\lib\\junit-4.13.2.jar"
+        "c:\\Users\\nayee\\Downloads\\ojdbc8.jar",
+        "c:\\Users\\nayee\\Downloads\\Wipro-TNP\\JunitLearning\\lib\\hamcrest-core-1.3.jar",
+        "c:\\Users\\nayee\\Downloads\\Wipro-TNP\\JunitLearning\\lib\\junit-4.13.2.jar"
     ]
 }
