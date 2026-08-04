@@ -6,6 +6,181 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Activity5",
+            "request": "launch",
+            "mainClass": "LogicBuilding.LC5.Activity5",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "Activity4",
+            "request": "launch",
+            "mainClass": "LogicBuilding.LC5.Activity4",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "Activity3",
+            "request": "launch",
+            "mainClass": "LogicBuilding.LC5.Activity3",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "Activity2",
+            "request": "launch",
+            "mainClass": "LogicBuilding.LC5.Activity2",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "Activity1",
+            "request": "launch",
+            "mainClass": "LogicBuilding.LC5.Activity1",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "Activity5",
+            "request": "launch",
+            "mainClass": "LogicBuilding.LC4.Activity5",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "Activity4",
+            "request": "launch",
+            "mainClass": "LogicBuilding.LC4.Activity4",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "Activity3",
+            "request": "launch",
+            "mainClass": "LogicBuilding.LC4.Activity3",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "Activity2",
+            "request": "launch",
+            "mainClass": "LogicBuilding.LC4.Activity2",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "Activity1",
+            "request": "launch",
+            "mainClass": "LogicBuilding.LC4.Activity1",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "Activity5",
+            "request": "launch",
+            "mainClass": "LogicBuilding.LC3.Activity5",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "Activity4",
+            "request": "launch",
+            "mainClass": "LogicBuilding.LC3.Activity4",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "Activity3",
+            "request": "launch",
+            "mainClass": "LogicBuilding.LC3.Activity3",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "Activity2",
+            "request": "launch",
+            "mainClass": "LogicBuilding.LC3.Activity2",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "Activity1",
+            "request": "launch",
+            "mainClass": "LogicBuilding.LC3.Activity1",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "Activity5",
+            "request": "launch",
+            "mainClass": "LogicBuilding.LC2.Activity5",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "Activity4",
+            "request": "launch",
+            "mainClass": "LogicBuilding.LC2.Activity4",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "Activity3",
+            "request": "launch",
+            "mainClass": "LogicBuilding.LC2.Activity3",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "Activity2",
+            "request": "launch",
+            "mainClass": "LogicBuilding.LC2.Activity2",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "Activity1",
+            "request": "launch",
+            "mainClass": "LogicBuilding.LC2.Activity1",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "Activity5",
+            "request": "launch",
+            "mainClass": "LogicBuilding.LC1.Activity5",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "Activity4",
+            "request": "launch",
+            "mainClass": "LogicBuilding.LC1.Activity4",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "Activity3",
+            "request": "launch",
+            "mainClass": "LogicBuilding.LC1.Activity3",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "Activity2",
+            "request": "launch",
+            "mainClass": "LogicBuilding.LC1.Activity2",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
+            "name": "Activity1",
+            "request": "launch",
+            "mainClass": "LogicBuilding.LC1.Activity1",
+            "projectName": "Wipro-TNP_77a45018"
+        },
+        {
+            "type": "java",
             "name": "CallProcedure",
             "request": "launch",
             "mainClass": "JDBC.CallableStatement.CallProcedure",
